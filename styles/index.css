@@ -1,0 +1,158 @@
+body{
+    margin: 50px 140px 0px 140px;
+}
+    
+.header1{
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    border-radius: 25px 25px 25px 25px;
+}
+     
+.title{
+    
+    padding:140px 344px 177px 344px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%)
+    
+    
+}
+.header-title{
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+ margin-bottom:-33px;
+}
+.header-title2{
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-style: normal;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+}
+.section1{
+    
+    background: #FFF;
+}
+.percentage{
+    padding: 0px 400px;
+    font-family: Inter;
+    line-height: normal;
+    font-style: normal;
+}
+.per{
+    text-align: center;
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin: 20px;
+    padding: 10px;
+      
+}
+.our{
+text-align: center;
+color: #F00;
+font-size: 24px;
+font-weight: 500;
+margin:0px;
+padding:0px;
+}
+.all{
+color: #070211;
+font-size: 48px;
+font-weight: 700;
+margin:0px;
+padding: 0px;
+
+}
+.images{
+    margin-top: 40px;
+    padding: 0px 300px;
+}
+
+.happy{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+
+    
+}
+.section2{
+    margin-top: 40px;
+
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    display:flex;
+    
+}
+.style-section2{
+    padding: 50px 90px 142px 126px;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+.heading{
+color: #FFF;
+font-family: Merriweather; 
+font-size: 64px;
+
+}
+.par-style{
+color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 30px;
+    color: #ffff;
+    background-color: #070211;
+    text-align: center;
+    border: none;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.year{
+display: flex;
+padding-top: 68px;
+padding-top: 68px;
+padding-right: 138px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.section3{
+    margin-top: 50px;
+    background:  linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+}
+.overall-address{
+padding: 100px 386px 100px 386px;
+color: #070211;
+font-size: 30px;
+font-weight: 600;
+line-height: 56px;
+text-align: center;
+}
+.address{
+    color: #F00;
+}
+.address-btn{
+    margin-top: 30px;
+padding: 10px 25px;
+border-radius: 8px;
+background: #F00;
+color: #FFF;
+font-size: 20px;
+text-align: center;
+font-family: Inter;
+
+
+}
