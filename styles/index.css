@@ -1,17 +1,19 @@
-body{
+header, main{
     margin: 50px 140px 0px 140px;
+
 }
     
 .header1{
     background-image: url('../images/Banner\ Image.png');
     background-repeat: no-repeat;
-    border-radius: 25px 25px 25px 25px;
+    background-size: cover;
+    border-radius: 20px; 
+    overflow: hidden;
 }
      
 .title{
     
     padding:140px 344px 177px 344px;
-    border-radius: 25px;
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%)
     
     
@@ -85,15 +87,18 @@ padding: 0px;
 }
 .section2{
     margin-top: 40px;
-
     background-image: url('../images/Vectorrr.png');
     background-repeat: no-repeat;
     display:flex;
+    border-radius: 20px; 
+    overflow: hidden;
     
 }
 .style-section2{
+    
     padding: 50px 90px 142px 126px;
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    border-radius: 25px 25px 25px 25px;
 }
 .heading{
 color: #FFF;
@@ -153,6 +158,78 @@ color: #FFF;
 font-size: 20px;
 text-align: center;
 font-family: Inter;
-
+}
+.section4{
+    margin-top: 50px;
+    display: flex;
+    background-color: #FFF;
+    justify-content: space-between;
+}
+.new{
+margin-top: 50px;
+padding-top: 50px;
+color: #F00;
+font-size: 24px;
+}
+.comming{
+    margin-top: -20px;
+    padding: 0px;
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+}
+.sec4-details{
+ margin-top: -20px;
+ color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+width: 393px;
+}
+.middle-img{
+ margin: 50px;   
+padding: 30px;
+border-radius: 463px;
+border: 15px solid #F00;
+}
+.yea{
+    margin-top: 50px;
+    padding-top: 50px;
+    color: #F00;
+    font-size: 48px;
+}
+.footer1{
+    padding: 120px 140px 120px 140px;
+    background: #070211;
+    
+}
+.addreess-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.fotter-details{
+padding-right: 135px;
+ color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
 
 }
+.icons{
+    display: flex;
+}
+.icons-image{
+width: 24px;
+height: 24px;
+}
+.entertain-link{
+    padding: 30px 500px 30px 500px;
+    text-align: center;
+    display: flex;
+}
+.last-part2{
+    display: flex;
+    justify-content: space-between;
+    font-family: Inter;
+    font-size: 24px;
+    color: #FFF;
+}
+
