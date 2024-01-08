@@ -330,6 +330,47 @@ main {
     font-size: 20px;
     font-weight: 600;
 }
+.section5{
+    margin-top: 70px;
+    text-align: center;
+}
+.heading-section5{
+    font-family: Inter;
+}
+.header-section5{
+    color: #070211;
+    font-size: 24px;
+    margin: 0px;
+    padding: 0px;
+}
+.head-section5{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    margin: 0px;
+    padding: 10px;
+}
+.holidays{
+    color: #F00;
+}
+.address-section5{
+margin: 0px;
+padding: 10px;
+color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+padding-left: 126px;
+padding-right: 126px;
+}
+.image-section5{
+    background-image:url('../images/Rectangle\ 2.png') ;
+    background-repeat:no-repeat;
+    background-position: bottom;
+}
+.img-section5{
+    display: flex;
+}
 .header-section6{
   margin-top: 50px;  
  font-style: normal;
