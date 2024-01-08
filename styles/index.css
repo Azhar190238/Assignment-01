@@ -381,24 +381,30 @@ main {
 
 .img-section5 {
     display: flex;
-
+    position: relative;
 }
 
 .group75 {
-    width: 580px;
+    width: 680px;
     height: 550px;
+
 }
 
 .group44 {
-    padding-top: 50px;
-    width: 220.048px;
-    height: 220.119px;
+    position: absolute;
+    margin-left: 680px;
+    margin-top: 50px;
+    padding-top: -500px;
+    width: 220px;
+    height: 220px;
     background: #FFF;
+    border-radius: 100%;
 
 }
 
 .rectangle {
-
+    padding-right: 0px;
+    margin-left: 115px;
     width: 429px;
     height: 322px;
 
@@ -454,4 +460,9 @@ main {
     width: 500px;
     height: 400px;
     padding-bottom: 25px;
+}
+.product:hover, .product1:hover{
+
+    background-color: rgb(37, 44, 61);
+    color: #FFF;
 }
