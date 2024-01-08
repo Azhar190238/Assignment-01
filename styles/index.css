@@ -383,6 +383,7 @@ padding-top: 50px;
 width: 220.048px;
 height: 220.119px;
 background: #FFF;
+
 }
 .rectangle{
 
@@ -426,8 +427,13 @@ background: #FFF;
     display: flex;
 }
 .product{
-    width: 413px;
+    width: 500px;
     height: 400px;
-    padding-right: 20px;
-    padding-bottom: 20px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+.product1{
+    width: 500px;
+    height: 400px;
+    padding-bottom: 25px;
 }
